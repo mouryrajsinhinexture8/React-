@@ -2,6 +2,8 @@ import {Info} from './About';
 // import Header from './Header';
 function App()
 {
+    // const a=10;
+    // console.log(a);
     return (
       <div>
         {/* <Header/> */}
