@@ -1,0 +1,33 @@
+.card {
+  border: 2px solid steelblue;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 10px;
+  background-color: #eef;
+  width: 300px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.card h3 {
+  color: #2c3e50;
+}
+
+.card .details {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #ccc;
+}
+
+.card button {
+  margin-top: 15px;
+  padding: 8px 12px;
+  border: none;
+  background-color: steelblue;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.card button:hover {
+  background-color: #3a6a8a;
+}
