@@ -1,0 +1,19 @@
+.real-world-demo {
+  border: 2px solid #ff9800;
+  padding: 15px;
+  margin: 15px;
+  background-color: #fff3e0;
+}
+.real-world-demo .status {
+  font-style: italic;
+  color: #555;
+}
+.real-world-demo .error {
+  color: #d32f2f;
+  font-weight: bold;
+}
+.real-world-demo .user-profile {
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 4px;
+}
