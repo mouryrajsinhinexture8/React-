@@ -43,9 +43,10 @@ const CounterWithLifecycle: React.FC = () => {
 
       <button onClick={() => setCount(count + 1)}>
         Increase
-      </button>
+      </button>         
     </div>
   );
 };
 
 export default CounterWithLifecycle;
+
