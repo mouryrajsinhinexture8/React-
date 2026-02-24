@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Yash",
+    "age": 22,
+    "role": "Software Engineer"
+  },
+  {
+    "id": 2,
+    "name": "Alice",
+    "age": 28,
+    "role": "Product Manager"
+  },
+  {
+    "id": 3,
+    "name": "Bob",
+    "age": 35,
+    "role": "UI/UX Designer"
+  },
+  {
+    "id": 4,
+    "name": "Charlie",
+    "age": 30,
+    "role": "Data Scientist"
+  },
+  {
+    "id": 5,
+    "name": "Diana",
+    "age": 26,
+    "role": "Frontend Developer"
+  }
+]
