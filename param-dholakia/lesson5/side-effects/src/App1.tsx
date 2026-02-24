@@ -14,6 +14,7 @@ const App: React.FC = () => {
       {/* {show && <BadTimer />} */}
       {show && <GoodTimer />}
     </div>
+    
   );
 };
 
