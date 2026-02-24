@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 
-const MountExample: React.FC = () => {
+const FirstMountExample: React.FC = () => {
 
   // Empty dependency array []
   // Means run only once after first render
@@ -17,4 +17,4 @@ const MountExample: React.FC = () => {
   );
 };
 
-export default MountExample;
+export default FirstMountExample;
